@@ -1,0 +1,65 @@
+body{
+    background-color: #a9a9be;
+    padding-left: 1.5in;
+    padding-right: 1in ;
+
+}
+#kl{
+    background-color: burlywood;
+    color: darkblue;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-variant: small-caps;
+    font-style: oblique;
+}
+#mainhead{
+    background-color: darkcyan;
+    color: darkmagenta;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-variant: small-caps;
+    align-self: center;
+    animation-name: none
+}
+#part1{
+    background-color: darkslategrey;
+    color: rgb(221, 38, 38);
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: inherit;
+    font-style: italic;
+    align-content: flex-start;
+}
+#h2{
+    background-color: lightcoral;
+    color: red;
+    font-size: x-large;
+    font-family: monospace;
+    font-weight: 900;
+    font-style: italic;
+    font-variant: normal;
+}
+#part2{
+    background-color: saddlebrown;
+    border-color: seagreen;
+    color-interpolation-filters: sRGB;
+    color: yellow;
+    font-size: medium;
+    font-family: serif;
+    font-weight: 700;
+    font-variant: normal;
+    font-style: italic;
+}
+#button{
+    background-color: rgb(221, 38, 38);
+    border: yellow;
+    background-image: url(09.jpg);
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-style: oblique;
+    font-variant: small-caps;
+}
+
